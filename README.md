@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Aline 👋
 
-<!--
-**alin3-b/alin3-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Universidad Tecnológica de la Mixteca.
 
-Here are some ideas to get you started:
+Interested in software development, scientific computing and intelligent systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+### Programming
+- Python
+- JavaScript
+- Java
+- C
+- SQL
+
+### Development
+- Node.js
+- Express
+- REST APIs
+- Docker
+- Git
+
+### Scientific Computing
+- NumPy
+- SciPy
+- NiBabel
+- DIPY
+
+### Systems
+- Linux
+- macOS
+- VHDL
+- FPGA
+
+## Featured Projects
+
+### Diffusion MRI and Tractography Pipeline
+Implementation of a diffusion MRI processing pipeline including DTI, SH, CSD and tractography algorithms.
+
+### UTMentor
+Full-stack web platform for academic tutoring management.
+
+## Contact
+
+LinkedIn:
+Email:aline.perz5@gmail.com
