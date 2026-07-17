@@ -42,5 +42,5 @@ Full-stack web platform for academic tutoring management.
 
 ## Contact
 
-LinkedIn:linkedin.com/in/aline-p%C3%A9rez-b71b88422
+LinkedIn:linkedin.com/in/aline-pérez-b71b88422
 Email:aline.perz5@gmail.com
